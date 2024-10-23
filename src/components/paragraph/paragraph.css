@@ -1,0 +1,15 @@
+.containerParagrapf{
+    padding: 25px;
+}
+
+.capital {
+    padding: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    border-radius: 50px;
+}
+
+.tittle{
+    text-transform: uppercase;
+    text-align: center;
+}
