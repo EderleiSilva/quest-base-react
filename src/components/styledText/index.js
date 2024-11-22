@@ -1,4 +1,4 @@
-import './paragraph.css'
+import './index.css'
 
 const Paragraph = (props) => {
     return (
